@@ -28,7 +28,7 @@ $(e^{2x})^2$ means $e^{2x}$ multiplied by itself:
 
 $$e^{2x} \times e^{2x} = e^{2x + 2x} = e^{4x}$$
 
-Using the rule $e^a \cdot e^a = e^{2a}$, with $a = 2x$:
+Using the general rule $e^a \cdot e^b = e^{a+b}$, where here $a = b = 2x$:
 
 $$= e^{2(2x)} = e^{4x} \checkmark$$
 
